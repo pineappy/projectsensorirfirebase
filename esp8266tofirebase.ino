@@ -2,7 +2,7 @@
 #include <ESP8266WiFi.h>
 
 #define ssid "Student_Polban"  //WiFi SSID   // BUTUH WIFI MANAGER
-#define password "20polban21"  //WiFi Password
+#define password "wifi"  //WiFi Password
 #define DATABASE_URL "ir-firebass-demo-default-rtdb.asia-southeast1.firebasedatabase.app"
 #define DATABASE_SECRET "W9HCXqjT4F4CrEbja3bRiCis0ORqdDSafA7ZFBNQ"
 
