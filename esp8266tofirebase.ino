@@ -22,7 +22,7 @@ void setup(){
   // SERIAL
   Serial.begin(9600);
   
-  // KONEK WIFI
+  // CONNECT WIFI
   WiFi.mode(WIFI_STA);
   WiFi.begin(ssid, password);
   while(WiFi.status() != WL_CONNECTED) {
